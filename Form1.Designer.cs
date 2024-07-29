@@ -75,7 +75,7 @@
             // pictureBox2
             // 
             pictureBox2.Image = Properties.Resources.SettingsWheel1;
-            pictureBox2.Location = new Point(12, 412);
+            pictureBox2.Location = new Point(12, 103);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(22, 28);
             pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
@@ -85,7 +85,7 @@
             // pictureBox3
             // 
             pictureBox3.Image = Properties.Resources.CombatIcon;
-            pictureBox3.Location = new Point(208, 19);
+            pictureBox3.Location = new Point(175, 19);
             pictureBox3.Name = "pictureBox3";
             pictureBox3.Size = new Size(28, 29);
             pictureBox3.TabIndex = 3;
@@ -94,7 +94,7 @@
             // pictureBox4
             // 
             pictureBox4.Image = Properties.Resources.UtilityIcon;
-            pictureBox4.Location = new Point(350, 22);
+            pictureBox4.Location = new Point(321, 19);
             pictureBox4.Name = "pictureBox4";
             pictureBox4.Size = new Size(28, 26);
             pictureBox4.TabIndex = 4;
@@ -103,7 +103,7 @@
             // pictureBox5
             // 
             pictureBox5.Image = Properties.Resources.DiscordIcon;
-            pictureBox5.Location = new Point(40, 412);
+            pictureBox5.Location = new Point(12, 147);
             pictureBox5.Name = "pictureBox5";
             pictureBox5.Size = new Size(28, 26);
             pictureBox5.SizeMode = PictureBoxSizeMode.Zoom;
@@ -114,7 +114,7 @@
             // pictureBox6
             // 
             pictureBox6.Image = Properties.Resources.RenderIcon;
-            pictureBox6.Location = new Point(492, 19);
+            pictureBox6.Location = new Point(471, 22);
             pictureBox6.Name = "pictureBox6";
             pictureBox6.Size = new Size(28, 26);
             pictureBox6.TabIndex = 6;
@@ -123,7 +123,7 @@
             // pictureBox7
             // 
             pictureBox7.Image = Properties.Resources.ProfilesIcon;
-            pictureBox7.Location = new Point(668, 19);
+            pictureBox7.Location = new Point(628, 19);
             pictureBox7.Name = "pictureBox7";
             pictureBox7.Size = new Size(28, 26);
             pictureBox7.TabIndex = 7;
@@ -132,7 +132,7 @@
             // checkBox1
             // 
             checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(335, 82);
+            checkBox1.Location = new Point(310, 72);
             checkBox1.Name = "checkBox1";
             checkBox1.Size = new Size(57, 19);
             checkBox1.TabIndex = 8;
@@ -143,7 +143,7 @@
             // checkBox2
             // 
             checkBox2.AutoSize = true;
-            checkBox2.Location = new Point(627, 82);
+            checkBox2.Location = new Point(597, 72);
             checkBox2.Name = "checkBox2";
             checkBox2.Size = new Size(107, 19);
             checkBox2.TabIndex = 9;
@@ -153,7 +153,7 @@
             // checkBox3
             // 
             checkBox3.AutoSize = true;
-            checkBox3.Location = new Point(177, 82);
+            checkBox3.Location = new Point(149, 72);
             checkBox3.Name = "checkBox3";
             checkBox3.Size = new Size(86, 19);
             checkBox3.TabIndex = 10;
@@ -165,7 +165,7 @@
             // 
             button1.Font = new Font("Segoe UI", 12F);
             button1.ForeColor = SystemColors.ActiveCaptionText;
-            button1.Location = new Point(74, 410);
+            button1.Location = new Point(12, 190);
             button1.Name = "button1";
             button1.Size = new Size(22, 30);
             button1.TabIndex = 11;
@@ -176,7 +176,7 @@
             // 
             button2.Font = new Font("Segoe UI", 12F);
             button2.ForeColor = SystemColors.ActiveCaptionText;
-            button2.Location = new Point(102, 410);
+            button2.Location = new Point(12, 235);
             button2.Name = "button2";
             button2.Size = new Size(21, 30);
             button2.TabIndex = 12;
@@ -188,7 +188,7 @@
             // 
             button3.Font = new Font("Segoe UI", 12F);
             button3.ForeColor = SystemColors.ActiveCaptionText;
-            button3.Location = new Point(129, 410);
+            button3.Location = new Point(12, 284);
             button3.Name = "button3";
             button3.Size = new Size(21, 30);
             button3.TabIndex = 13;
